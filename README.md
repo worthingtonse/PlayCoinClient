@@ -76,3 +76,4 @@ Step | Name | Completed
 4|Port to all platforms|
 
 ![Program Diagram](https://github.com/worthingtonse/PlayCoinClient/blob/main/Servant%20Model%20Simple%20Version%201.png)
+![Class Plan](https://github.com/worthingtonse/PlayCoinClient/blob/main/ClassPlan.png)
