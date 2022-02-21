@@ -8,7 +8,9 @@ namespace CoinPlay
 {
     class Request
     {
-
+        public byte cloudID;
+        public byte Split ID;
+        public byte[] body;
         //Header Fields add 22 fields from the standard header  https://github.com/worthingtonse/RAIDAX/blob/main/Request_Response_Headers.md#-requests
         //Body fields
 
@@ -18,18 +20,17 @@ namespace CoinPlay
         }
 
         public byte[] getHeader() { 
-         return //All bytes in the header
+            return //All bytes in the header
         }
 
         public byte[] getBody() { 
-        return //all bytes in the body
+            return //all bytes in the body
         }
+        
         public byte[] getRequest()
         {
             return //all bytes in the header and body with E3 E3 at the end. 
         }
-
-    
 
     }
 }
