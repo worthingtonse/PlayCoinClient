@@ -21,54 +21,54 @@ Step | Name | Completed
 
 Step | Name | Completed 
 ---|---|---
-1. | Create CloudCoin Object| 
-2. | Create File System Object| 
-3. | Create Bin Writer| 
-4. | Create Bin Reader| 
-5. | Create PNG Writer| 
-6. | Create PNG Reader| 
+1 | Create CloudCoin Object| 0
+2 | Create File System Object| 
+3 | Create Bin Writer| 
+4 | Create Bin Reader| 
+5 | Create PNG Writer| 
+6 | Create PNG Reader| 
 
 
 ## PHASE III Local Commands
 
 Step | Name | Completed 
 ---|---|---
-1.| Show Coins|
-2.| Unpacker|
-3.| Exporter|
-4. |Translator|
-5. |Grader|
+1| Show Coins|
+2| Unpacker|
+3| Exporter|
+4 |Translator|
+5 |Grader|
 
 
 ## PHASE IV RAIDA Commands
 
 Step | Name | Completed 
 ---|---|---
-1.| Echoer|
-2. |Detecter|
-3. |Powner|
-4.| Get Ticket|
-5. |Fixer (Fix V2)|
-6. |Finder|
+1| Echoer|
+2 |Detecter|
+3 |Powner|
+4| Get Ticket|
+5 |Fixer (Fix V2)|
+6 |Finder|
 
 
 ## PHASE V GUI
 
 Step | Name | Completed 
 ---|---|---
-1.|Main Page (Bank)|
-2. |Echo RAIDA|
-2.| Import Page|
-3. |Export Page|
-4. |Fix Page|
-5.| Lost Page |
+1|Main Page (Bank)|
+2 |Echo RAIDA|
+2| Import Page|
+3 |Export Page|
+4 |Fix Page|
+5| Lost Page |
 
 ## PHASE VI Performance
 
 Step | Name | Completed 
 ---|---|---
-1.|Increase UDP performance|
-2.|Package software|
-3.|Digital Signature|
-4.|Port to all platforms|
+1|Increase UDP performance|
+2|Package software|
+3|Digital Signature|
+4|Port to all platforms|
 
