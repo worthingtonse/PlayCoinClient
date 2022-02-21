@@ -77,3 +77,6 @@ Step | Name | Completed
 
 ![Program Diagram](https://github.com/worthingtonse/PlayCoinClient/blob/main/Servant%20Model%20Simple%20Version%201.png)
 ![Class Plan](https://github.com/worthingtonse/PlayCoinClient/blob/main/ClassPlan.png)
+![Bank](https://github.com/worthingtonse/PlayCoinClient/blob/main/Bank%201.png)
+![Fracked](https://github.com/worthingtonse/PlayCoinClient/blob/main/Fracked%204.png)
+![Import](https://github.com/worthingtonse/PlayCoinClient/blob/main/Import%202.png)
