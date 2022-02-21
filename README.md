@@ -6,6 +6,7 @@ Plan for CoinPlay
 =========================
 PHASE I Connecting to the RAIDA
 =========================
+
 Step | Name | Completed 
 ---|---|---
 1. | Create Request Object | ✔
@@ -33,6 +34,7 @@ Step | Name | Completed
 =========================
 PHASE III Local Commands
 =========================
+
 Step | Name | Completed 
 ---|---|---
 1.| Show Coins|
@@ -58,6 +60,7 @@ Step | Name | Completed
 =========================
 PHASE V GUI
 =========================
+
 Step | Name | Completed 
 ---|---|---
 1.|Main Page (Bank)|
@@ -70,6 +73,7 @@ Step | Name | Completed
 =========================
 PHASE VI Performance
 =========================
+
 Step | Name | Completed 
 ---|---|---
 1.|Increase UDP performance|
