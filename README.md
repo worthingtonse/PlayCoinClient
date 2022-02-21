@@ -10,11 +10,11 @@ PHASE I Connecting to the RAIDA
 Step | Name | Completed 
 ---|---|---
 1. | Create Request Object | ✔
-2. | Create Response Object
-3. | Create an EchoLog
-4. | Create or find a Logger class to write information to the hard drive about errors. 
-5. | Create DetectionAgent Object (talks to one detection agent). Just have it send one packet for now that is less than 1024 bytes. 
-6. | Find an exisint AES encryption class that we can use. 
+2. | Create Response Object|
+3. | Create an EchoLog|
+4. | Create or find a Logger class to write information to the hard drive about errors. |
+5. | Create DetectionAgent Object (talks to one detection agent). Just have it send one packet for now that is less than 1024 bytes. |
+6. | Find an exisint AES encryption class that we can use. |
 
 
 =========================
