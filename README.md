@@ -21,7 +21,7 @@ Step | Name | Completed
 
 Step | Name | Completed 
 ---|---|---
-1 | Create CloudCoin Object| 0
+1 | Create CloudCoin Object| 
 2 | Create File System Object| 
 3 | Create Bin Writer| 
 4 | Create Bin Reader| 
