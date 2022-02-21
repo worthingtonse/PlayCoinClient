@@ -1,7 +1,7 @@
-# PlayCoinClient
+# Play Coin Client
 This is a CloudCoin Client that is fun and easy to use. 
 
-Plan for CoinPlay
+Development Plan for Coin Play
 
 
 ## PHASE I Connecting to the RAIDA
