@@ -27,7 +27,7 @@ namespace Founders4
 
             for (int i = 0; (i < 25); i++)
             {
-                this.agent[i] = new DetectionAgent(ipAddress, portNumber, request);
+                this.agent[i] = new DetectionAgent(ipAddress[i], portNumber[i], request[i]);
               
 
             } // end for each Raida
