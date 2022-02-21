@@ -13,7 +13,9 @@ Step | Name | Completed
 3| Create an EchoLog|
 4 | Create or find a Logger class to write information to the hard drive about errors. |
 5 | Create DetectionAgent Object (talks to one detection agent). Just have it send one packet for now that is less than 1024 bytes. |
-6 | Find an exisint AES encryption class that we can use. |
+6 | Create RAIDA Object |
+
+
 
 
 
@@ -44,24 +46,25 @@ Step | Name | Completed
 
 Step | Name | Completed 
 ---|---|---
-1| Echoer|
-2 |Detecter|
-3 |Powner|
-4| Get Ticket|
-5 |Fixer (Fix V2)|
-6 |Finder|
-
+1 | Find an exisint AES encryption class that we can use. |
+2 | Echoer|
+3 | Detecter|
+4 | Powner|
+5 | Get Ticket|
+6 | Fixer (Fix V2)|
+7 | Finder|
+8 | Find an exisint AES encryption class that we can use. |
 
 ## PHASE V GUI
 
 Step | Name | Completed 
 ---|---|---
-1|Main Page (Bank)|
+1 |Main Page (Bank)|
 2 |Echo RAIDA|
-2| Import Page|
-3 |Export Page|
-4 |Fix Page|
-5| Lost Page |
+3 | Import Page|
+4 |Export Page|
+5 |Fix Page|
+6 | Lost Page |
 
 ## PHASE VI Performance
 
