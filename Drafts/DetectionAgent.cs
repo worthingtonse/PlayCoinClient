@@ -15,11 +15,7 @@ namespace CoinPlay
         public string ipAddress;
         public int portNumber;
         
-        //Other bytes
-        public byte[16] encryptionKey;
-        public string encryptionType;  //none or aes128
-
-      
+   
 
         //Constructor
         public DetectionAgent(string ipAddress, int portNumber, Request request)
