@@ -3,9 +3,8 @@ This is a CloudCoin Client that is fun and easy to use.
 
 Plan for CoinPlay
 
-=========================
-PHASE I Connecting to the RAIDA
-=========================
+
+## PHASE I Connecting to the RAIDA
 
 Step | Name | Completed 
 ---|---|---
@@ -17,9 +16,8 @@ Step | Name | Completed
 6 | Find an exisint AES encryption class that we can use. |
 
 
-=========================
-PHASE II File Operations
-=========================
+
+## PHASE II File Operations
 
 Step | Name | Completed 
 ---|---|---
@@ -31,9 +29,7 @@ Step | Name | Completed
 6. | Create PNG Reader| 
 
 
-=========================
-PHASE III Local Commands
-=========================
+## PHASE III Local Commands
 
 Step | Name | Completed 
 ---|---|---
@@ -44,9 +40,7 @@ Step | Name | Completed
 5. |Grader|
 
 
-=========================
-PHASE IV RAIDA Commands
-=========================
+## PHASE IV RAIDA Commands
 
 Step | Name | Completed 
 ---|---|---
@@ -57,9 +51,8 @@ Step | Name | Completed
 5. |Fixer (Fix V2)|
 6. |Finder|
 
-=========================
-PHASE V GUI
-=========================
+
+## PHASE V GUI
 
 Step | Name | Completed 
 ---|---|---
@@ -70,9 +63,7 @@ Step | Name | Completed
 4. |Fix Page|
 5.| Lost Page |
 
-=========================
-PHASE VI Performance
-=========================
+## PHASE VI Performance
 
 Step | Name | Completed 
 ---|---|---
