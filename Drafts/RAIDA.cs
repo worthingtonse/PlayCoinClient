@@ -51,7 +51,7 @@ namespace Founders4
 
 
 
-        public Response[] echoAll(int milliSecondsToTimeOut)
+        public Response[] callAll(int milliSecondsToTimeOut)
         {
 
             //Create threads
