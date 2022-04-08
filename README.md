@@ -1,4 +1,15 @@
 # Play Coin Client
+Play Coin Clients can be made in different languages. The bulk of the work is done for making Web based Desktop apps. 
+
+# Play Coin in HTML, CSS and Javascript
+
+You will need the CloudCoin Manager as the backend that will do the actual work. 
+
+
+
+# Play Coin in 'C++'
+
+
 This is a CloudCoin Client that is designed to be fun and easy to use. It is in the process of development and is being written in Unity.  
 
 # Development Plan for Coin Play:
